@@ -1,0 +1,2 @@
+ball_chaser:my_robot:simple_arm
+-DPYTHON_EXECUTABLE=/usr/bin/python3 -DPYTHON_INCLUDE_DIR=/usr/include/python3.8d -DCATKIN_DEVEL_PREFIX=/home/kewang/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kewang/workspace/catkin_ws/install -G Unix Makefiles
